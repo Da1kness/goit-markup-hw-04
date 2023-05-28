@@ -51,7 +51,7 @@ body {
   padding-right: 15px;
 }
 
-/*------ header -----------*/
+/*--Header--*/
 
 .page-header-container {
   display: flex;
@@ -136,9 +136,9 @@ body {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
-/*------ main studio ----------*/
+/*--Main--*/
 
-/*------Section 1 hero -----------*/
+/*--Section 1 - Hero--*/
 
 .hero {
   max-width: 1440px;
@@ -195,8 +195,7 @@ body {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
-/*------Section 2 features -----------*/
-
+/*--Section 2 - Features --*/
 .features-section {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -238,8 +237,7 @@ body {
   border-radius: 4px;
 }
 
-/*------Section 3 What are we doing -----------*/
-
+/*--Section 3 - What are we doing --*/
 .section-work {
   padding-bottom: 120px;
 }
@@ -264,7 +262,7 @@ body {
   margin-bottom: 72px;
 }
 
-/*------Section 4 team -----------*/
+/*--Section 4 - Team --*/
 
 .team-content {
   background-color: var(--cloud);
@@ -352,7 +350,7 @@ body {
   gap: 24px;
 }
 
-/*------ customers -----------*/
+/*--Customers--*/
 
 .section-customers {
   padding-top: 120px;
@@ -401,7 +399,7 @@ body {
   fill: currentColor;
 }
 
-/*------portfolio -----------*/
+/*--Portfolio--*/
 
 .section-portfolio {
   padding-top: 96px;
@@ -458,9 +456,6 @@ body {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-/* .portfolio-box {
-  /* width: calc((100%-48px) / 3); */
-
 .portfolio-card-item {
   padding: 32px 16px;
   border: 1px solid var(--light);
@@ -483,9 +478,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-/* ------------------------------------------------------------------------------------ */
-
-/*------ footer -----------*/
+/*--Footer--*/
 
 .footer-content {
   background-color: var(--dark);
